@@ -1,2 +1,2 @@
 test
-my fav colior is greeeen
+my favorite colior is greeeen
